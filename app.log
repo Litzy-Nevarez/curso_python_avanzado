@@ -1,0 +1,6 @@
+2025-08-14 11:11:15 - WARNING - Este es un mensaje de advertencia
+2025-08-14 11:11:15 - ERROR - Este es un mensaje de error
+2025-08-14 11:11:15 - CRITICAL - Este es un mensaje de critical
+2025-08-14 11:14:02 - ERROR - Error: División entre cero
+2025-08-14 11:14:19 - ERROR - Error: División entre cero
+2025-08-14 11:24:49 - ERROR - Error: Division entre cero

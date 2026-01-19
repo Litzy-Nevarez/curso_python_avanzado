@@ -1,0 +1,10 @@
+2025-08-18 12:40:08 - INFO - Cambiado al directorio: C:\Users\yulis\Documents\curso_python_avanzado\directorio_prueba
+2025-08-18 12:40:08 - INFO - Archivos en el directorio: ['a.txt', 'b.txt', 'dd.json', 'hola.py']
+2025-08-18 12:40:08 - INFO - Directorio creado: txt
+2025-08-18 12:40:08 - INFO - Archivo movido: a.txt a txt\a.txt
+2025-08-18 12:40:08 - INFO - Archivo movido: b.txt a txt\b.txt
+2025-08-18 12:40:08 - INFO - Directorio creado: json
+2025-08-18 12:40:08 - INFO - Archivo movido: dd.json a json\dd.json
+2025-08-18 12:40:08 - INFO - Directorio creado: py
+2025-08-18 12:40:08 - INFO - Archivo movido: hola.py a py\hola.py
+2025-08-18 12:40:08 - INFO - Organización completada.
